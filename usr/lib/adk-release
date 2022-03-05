@@ -9,5 +9,5 @@ SUPPORT_URL="https://github.com/Technopig100/"
 BUG_REPORT_URL="https://bugs.archlinux.org/"
 LOGO=distributor-logo-adklinux.svg
 IMAGE_ID=adklinux
-IMAGE_VERSION=2022.02.16 
+IMAGE_VERSION=2022.03.02 
 LogoPath=/etc/xdg/adk-linux/distributor-logo-adklinux.svg

@@ -1,1 +1,1 @@
-# ADKLinux iso config files
+# ADK-Linux iso (Branding) config files
